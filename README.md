@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+# Password Complexity Checker
 Password Complexity Checker Tool 
 
 This tool checks the password complexity based on criteria's such as length (min. 8 to max. 128), presence of uppercase letters and lowercase letters (atleast 2 of each type), numbers (atleast 3 digits), special characters (min. 2) 
